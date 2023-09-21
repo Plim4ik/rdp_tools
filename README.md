@@ -8,6 +8,7 @@ This directory contains the following files:
 - `VSCodeUserSetup-x64-1.82.2.exe` - Visual Studio Code editor installer.
 - `geckodriver-v0.33.0-win64.zip` - Geckodriver, which is needed to work with Firefox in automated tests. Please extract the contents of this archive and place it in the Python installation directory. By default, the Python installation directory is `C:\Users\<your_username>\AppData\Local\Programs\Python\<Python_version>\`.
 - `python-3.11.5-amd64.exe` - Python programming language installer.
+- `putty-64bit-0.79-installer.msi` - PuTTY SSH and Telnet client installer.
 
 ## Additional Recommendations
 
